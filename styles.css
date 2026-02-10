@@ -41,12 +41,11 @@ p{
     60% { color: #00ff00; }
     80% { color: #0000ff; }
     100% { color: #8b00ff; }
-
-.fire {
-	position: bottom;
-	width: 1000px;
-	height: 300px;
 }
 
-
-
+.fire {
+	position:absolute bottom;
+	margin-top: 400px;
+	width: 3000px;
+	height: 500px;
+}
